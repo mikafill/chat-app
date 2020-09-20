@@ -119,13 +119,13 @@
   display: flex;
 }
 
-.form-div{
+.form-input{
   width: 100%;
   margin-right: 15px;
   display: flex;
 }
 
-.message-form{
+.form-message{
   background-color: white;
   padding-left: 10px;
 
@@ -134,7 +134,7 @@
   border: none;
 }
 
-.submit-btn{
+.form-submit{
   background-color: #38AEF0;
   border: none;
   padding: 0 20px;
